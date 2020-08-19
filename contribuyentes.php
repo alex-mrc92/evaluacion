@@ -22,7 +22,7 @@
   <div class="wrapper ">
     
     <!-- main menu -->
-    <?php include 'menu.php'; ?>
+    <?php include 'menu_1.php'; ?>
     <!-- /main menu -->
 
     <div class="main-panel">

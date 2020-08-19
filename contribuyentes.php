@@ -22,13 +22,13 @@
   <div class="wrapper ">
     
     <!-- main menu -->
-    <?php include 'menu_1.php'; ?>
+    <?php include 'menu.php'; ?>
     <!-- /main menu -->
 
     <div class="main-panel">
       
       <!-- Navbar -->
-      <?php include 'navbar_1.php'?>
+      <?php include 'navbar.php'?>
       <!-- End Navbar -->
       
       <div class="content">

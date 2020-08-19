@@ -10,12 +10,6 @@
           <p>Contribuyentes</p>
         </a>
       </li>
-      <li class="nav-item  active">
-        <a class="nav-link" href="contribuyentes">
-          <i class="material-icons">people</i>
-          <p>Contribuyentes</p>
-        </a>
-      </li>
     </ul>
   </div>
 </div>
